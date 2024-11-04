@@ -19,12 +19,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: "Create a folder called output"
-        run: |
-          mkdir output
-          cp resume-stylesheet.css output/resume-stylesheet.css
-          cp resume.md output/${{ env.OUTPUT_NAME }}-resume.md
-
       - name: "Install pandoc and wkhtmltopdf"
         run: |
           wget https://github.com/jgm/pandoc/releases/download/3.0.1/pandoc-3.0.1-1-amd64.deb
@@ -34,10 +28,10 @@ jobs:
 
       - name: "Convert MD to HTML"
         run: |
-          pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o output/${{ env.OUTPUT_NAME }}-resume.html
+          pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o index.html
 
       - name: "Convert HTML to PDF"
-        run: "wkhtmltopdf --enable-local-file-access output/${{ env.OUTPUT_NAME }}-resume.html output/${{ env.OUTPUT_NAME }}-resume.pdf"
+        run: "wkhtmltopdf --enable-local-file-access index.html ${{ env.OUTPUT_NAME }}-resume.pdf"
 
       - name: Deploy to GitHub Pages
         env:
@@ -45,7 +39,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
           
           git commit -m "Deploy generated resume files for ${{ env.OUTPUT_NAME }} to GitHub Pages"
           git push -f "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:gh-pages
@@ -53,4 +46,3 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: ${{ env.OUTPUT_NAME }}'s Resume
-          path: output
