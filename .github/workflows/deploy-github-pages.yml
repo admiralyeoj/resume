@@ -13,7 +13,8 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # Ensures credentials don’t persist automatically
+          token: ${{ secrets.GITHUB_TOKEN }}  # Explicitly set the token for authentication
+          persist-credentials: false
           fetch-depth: 0
 
       - name: "Create a folder called output"
