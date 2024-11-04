@@ -12,15 +12,6 @@ jobs:
     env:
       OUTPUT_NAME: "joey-gross"  # Define the custom variable here
 
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-    permissions:
-        pages: write      # to deploy to Pages
-        id-token: write   # to verify the deployment originates from an appropriate source  
-
-    # Deploy to the github-pages environment
-    environment:
-        name: github-pages
-
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
@@ -49,9 +40,26 @@ jobs:
       - name: "Convert HTML to PDF"
         run: "wkhtmltopdf --enable-local-file-access output/${{ env.OUTPUT_NAME }}-resume.html output/${{ env.OUTPUT_NAME }}-resume.pdf"
 
-      - name: Deploy GitHub Pages site
-        uses: actions/deploy-pages@v4
-            
+      - name: Deploy to GitHub Pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "Deploy generated resume files for ${{ env.OUTPUT_NAME }} to GitHub Pages"
+          
+          # Fetch all branches to check for gh-pages on remote
+          git fetch origin
+          
+          # Check if gh-pages branch exists on remote
+          if git ls-remote --exit-code --heads origin gh-pages; then
+            echo "gh-pages branch exists on remote."
+            git push origin main:gh-pages -f
+          else
+            echo "Creating gh-pages branch on remote."
+            git push -u origin main:gh-pages
+          fi
 
       - uses: actions/upload-artifact@v3
         with:
