@@ -31,13 +31,11 @@ subject: 'Subject'
 ```GraphQL```
 ```Rest API```
 ```Google Maps API```
-```C# & C++```
-```Java```
 ```Project Management```
 ```System Architecture & Design```
 
 
-**Programming**: Go, PHP/Laravel \
+**Programming**: Go, PHP/Laravel, Java, C# & C++ \
 **JS Frameworks**: Node, React, Gatsby, Vue, Nuxt, Angular \
 **Databases**: MySQL, Postgres, sqlite, SQL Server, MSSQL \
 **Project Management**: Teamwork, Jira \
