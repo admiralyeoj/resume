@@ -9,11 +9,14 @@ on:
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
+    env:
+      OUTPUT_NAME: "joey-gross"  # Define the custom variable here
+
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Explicitly set the token for authentication
+          token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: false
           fetch-depth: 0
 
@@ -21,7 +24,7 @@ jobs:
         run: |
           mkdir output
           cp resume-stylesheet.css output/resume-stylesheet.css
-          cp resume.md output/${{ github.actor }}-resume.md
+          cp resume.md output/${{ env.OUTPUT_NAME }}-resume.md
 
       - name: "Install pandoc and wkhtmltopdf"
         run: |
@@ -32,10 +35,10 @@ jobs:
 
       - name: "Convert MD to HTML"
         run: |
-          pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o output/${{ github.actor }}-resume.html
+          pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o output/${{ env.OUTPUT_NAME }}-resume.html
 
       - name: "Convert HTML to PDF"
-        run: "wkhtmltopdf --enable-local-file-access output/${{ github.actor }}-resume.html output/${{ github.actor }}-resume.pdf"
+        run: "wkhtmltopdf --enable-local-file-access output/${{ env.OUTPUT_NAME }}-resume.html output/${{ env.OUTPUT_NAME }}-resume.pdf"
 
       - name: Deploy to GitHub Pages
         env:
@@ -44,7 +47,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add output/
-          git commit -m "Deploy generated resume files for ${{ github.actor }} to GitHub Pages"
+          git commit -m "Deploy generated resume files for ${{ env.OUTPUT_NAME }} to GitHub Pages"
           git push -f "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:gh-pages
 
       - uses: actions/upload-artifact@v3
