@@ -17,7 +17,9 @@ subject: 'Subject'
 ---
 ###### [[grossportfolio.com](https://grossportfolio.com)] . [ joey@bestcorgis.com] . [ (330) 685-6915 ]
 
+<div class="bio">
 ### An analytical and innovative backend developer with a specialization in backend and web applications. Focused on creating robust functionality and seamless integrations for websites and systems to ensure efficient data management. An exceptional team collaborator who leverages actionable data insights to solve complex problems and drive continuous improvement
+</div>
 
 ## Skills
 
