@@ -33,7 +33,7 @@ A lot has changed since Sonya wrote her blog post and shared her workflow, so he
     brew install pandoc
 ```
 
-## [Wkhtmltopdf](https://wkhtmltopdf.org)
+## [Wkhtmltopdf](https://wkhtmltopdf.org) 
 
 As of January 2023, this is not a supported project, so I'll be looking to change to some other provider soon. 
 
