@@ -18,7 +18,7 @@ subject: 'Subject'
 ###### [[grossportfolio.com](https://grossportfolio.com)] . [ joey@bestcorgis.com] . [ (330) 685-6915 ]
 
 <div class="bio">
-### An analytical and innovative backend developer with a specialization in backend and web applications. Focused on creating robust functionality and seamless integrations for websites and systems to ensure efficient data management. An exceptional team collaborator who leverages actionable data insights to solve complex problems and drive continuous improvement
+### An analytical and innovative backend developer specializing in backend and web applications. Focused on creating robust functionality and seamless integrations for websites and systems to ensure efficient data management. An exceptional team collaborator who leverages actionable data insights to solve complex problems and drive continuous improvement
 </div>
 
 ## Skills
@@ -32,14 +32,13 @@ subject: 'Subject'
 ```JS Frameworks```
 ```GraphQL```
 ```Rest API```
-```Google Maps API```
 ```Project Management```
 ```System Architecture & Design```
 
 
 **Programming**: Go, PHP/Laravel, Java, C# & C++ \
 **JS Frameworks**: Node, React, Gatsby, Vue, Nuxt, Angular \
-**Databases**: MySQL, Postgres, sqlite, SQL Server, MSSQL \
+**Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL \
 **Project Management**: Teamwork, Jira \
 
 <div class="experience">
@@ -52,7 +51,7 @@ subject: 'Subject'
 <p class="date">July 2022- June 2024</p>
 
 - **Backend Development & Feature Maintenance**: Using PHP and Laravel, to build and maintain new and existing features and APIs in proprietary WMS to enhance system functionality.
-- **Enterprise-Grade Systems** Develop and manage enterprise-grade WMS and OMS applications capable of handling large data volumes, ensuring reliability and performance, removing manual processing and Improving warehouse operations by at least 30%.
+- **Enterprise-Grade Systems** Develop and manage enterprise-grade WMS and OMS applications capable of handling large data volumes, ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
 - **Problem Solving & Debugging**: Utilize strong analytical abilities to debug and resolve issues within the existing codebase, maintaining system stability and performance, and increasing speed by as much as 40%.
 
 **Technologies used:** Using Laravel and MSSQL, I contributed to our proprietary Warehouse Management Software (WMS), ensuring smooth operations across our warehouses. I scoped and planned project features in Jira to maintain project visibility and mentored junior developers. Often, I was the go-to person for resolving urgent issues when quick fixes were needed.
@@ -63,10 +62,10 @@ subject: 'Subject'
 <p class="date">Sept 2017- July 2022</p>
 
 - **Website Development**: Collaborate with team members to develop and launch over 40 websites across multiple verticals, driving innovation and increasing the customer base.
-- **Custom Solutions**: Worked directly with clients to help build custom Wordpress themes and plugins to create the functionality requested. This includes working with APIs such as Quickbooks, Google Maps, CRMs, ect. I have helped plan and build all these sites from an internal base theme that I helped develop for ease of use.
+- **Custom Solutions**: Worked directly with clients to help build custom WordPress themes and plugins to create the functionality requested. This includes working with APIs such as Quickbooks, Google Maps, CRMs, etc. I have helped plan and build all these sites from an internal base theme that I helped develop for ease of use.
 - **Project Management**: Conduct scope and proposal writing for projects and retainers, performing risk analysis and mitigation throughout the project life cycle.
 
-**Technologies used:** Using PHP, Wordpress and Woocommerce, for the framework of websites. We used Teamwork Projects for our planning and project management needs. Also had some experience building web applications in a few javascript frameworks
+**Technologies used:** Built websites using PHP with WordPress and WooCommerce as the foundational frameworks. Managed project planning and workflows with Teamwork Projects. Additionally, I have experience developing web applications using various JavaScript frameworks.
 
 ### Digital Marketing Group
 #### Web Developer, *New Philadelphia, OH*
@@ -85,19 +84,18 @@ customizing the CMS for each client's unique needs, ensuring satisfaction and us
 
 **[*My Gross Portfolio*](http://grossportfolio.com)** My Portfolio Website
 
-- Built using Wordpress being loaded in with composer and theme started with Sage framework
-- Hosted using Heroku and AWS S3 bucket with AWS Cloudfront and Cloudflare
-- Project can be viewed on my [Github](https://github.com/admiralyeoj/gross-portfolio)
+- Built with WordPress, loaded through Composer, and a custom theme developed using the Sage framework.
+- Hosted on Heroku with media storage in an AWS S3 bucket, distributed via AWS CloudFront, and enhanced with Cloudflare for additional security and performance.
 
 **[*AniManager*](https://github.com/admiralyeoj/animanager)** Go application
 
-- Using the AniList API to store when they are being released in a postgres DB
-- After they are airing, they are announced to Bluesky that they are now airing
-- This is done using cron jobs and commands in the go application
+- Using the AniList API to track and store release dates, times, and show information in a PostgreSQL database.
+- Once the episodes air, an announcement is made on Bluesky to let followers know they’re now live.
+- This process is automated with cron jobs and commands within the Go application.
 
 **[*Flex Maps WP*](https://github.com/admiralyeoj/wp-flex-maps)** Custom WP Plugin
 
-- Developed a WordPress plugin utilizing the Google Maps API to manage and maintain locations efficiently.
+- Developed a WordPress plugin utilizing the Google Maps API to manage, and maintain locations efficiently.
 - Implemented customizable solutions including geolocation, Ajax loading, complex search criteria, and support for international locations to meet diverse user needs.
 </div>
 
