@@ -3,8 +3,6 @@
 This repo allows you to build/maintain your resume in a Markdown file, and then publish it into an HTML or PDF file.
 Technically, you could output it into any file you wanted with pandoc, or wkhtmltopdf, but I wasn't interested in those scenarios so I explore those avenues.
 
-The inspiration for this project came from my need to look for a job, my need to update my resume, and my desire not to have to write something in Google docs, or Microsoft Word, so I scoured the web for newer way to build/maintain a resume, while doing so I ran into this [project by Sonya Sawtelle](https://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html).
-
 I modified the CSS for my taste, and noticed that some of the documentation needed to be updated.
 
 Since Sonya's post is nearly five years old, there have been many changes to the command line utilities that she used, so I've updated this README to reflect those changes.
