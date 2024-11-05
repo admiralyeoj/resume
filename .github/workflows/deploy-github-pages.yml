@@ -34,7 +34,7 @@ jobs:
         run: "wkhtmltopdf --enable-local-file-access index.html ${{ env.OUTPUT_NAME }}-resume.pdf"
 
       - name: "Create CNAME file"
-        run: "echo 'resume.grossportfolio.com' > ./build/CNAME"
+        run: "echo 'resume.grossportfolio.com' > CNAME"
 
       - name: Deploy to GitHub Pages
         env:
