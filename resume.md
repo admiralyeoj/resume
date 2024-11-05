@@ -48,7 +48,7 @@ subject: 'Subject'
 ### Senior Software Engineer
 #### Tradefull, *North Canton OH*
 
-<p class="date">July 2022- June 2024</p>
+<p class="date">July 2022 - June 2024</p>
 
 - **Backend Development & Feature Maintenance**: Using PHP and Laravel, to build and maintain new and existing features and APIs in proprietary WMS to enhance system functionality.
 - **Enterprise-Grade Systems** Develop and manage enterprise-grade WMS and OMS applications capable of handling large data volumes, ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
@@ -59,7 +59,7 @@ subject: 'Subject'
 ### Lead Web Developer
 #### Ignitro, *Canton OH*
 
-<p class="date">Sept 2017- July 2022</p>
+<p class="date">Sept 2017 - July 2022</p>
 
 - **Website Development**: Collaborate with team members to develop and launch over 40 websites across multiple verticals, driving innovation and increasing the customer base.
 - **Custom Solutions**: Worked directly with clients to help build custom WordPress themes and plugins to create the functionality requested. This includes working with APIs such as Quickbooks, Google Maps, CRMs, etc. I have helped plan and build all these sites from an internal base theme that I helped develop for ease of use.
@@ -70,7 +70,7 @@ subject: 'Subject'
 ### Web Developer
 #### Digital Marketing Group, *New Philadelphia, OH*
 
-<p class="date">Sept 2017- July 2022</p>
+<p class="date">April 2016 - August 2017</p>
 
 - **Custom CMS Development**: Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client's unique needs using PHP.
 - **Security & SEO**: Ensured robust security measures and optimized SEO for the in-house custom content management solution.
