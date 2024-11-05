@@ -45,8 +45,8 @@ subject: 'Subject'
 
 ## Experience
 
-### Tradefull
-#### Senior Software Engineer, *North Canton OH*
+### Senior Software Engineer
+#### Tradefull, *North Canton OH*
 
 <p class="date">July 2022- June 2024</p>
 
@@ -56,8 +56,8 @@ subject: 'Subject'
 
 **Technologies used:** Using Laravel and MSSQL, I contributed to our proprietary Warehouse Management Software (WMS), ensuring smooth operations across our warehouses. I scoped and planned project features in Jira to maintain project visibility and mentored junior developers. Often, I was the go-to person for resolving urgent issues when quick fixes were needed.
 
-### Ignitro
-#### Lead Web Developer, *Canton OH*
+### Lead Web Developer
+#### Ignitro, *Canton OH*
 
 <p class="date">Sept 2017- July 2022</p>
 
@@ -67,8 +67,8 @@ subject: 'Subject'
 
 **Technologies used:** Built websites using PHP with WordPress and WooCommerce as the foundational frameworks. Managed project planning and workflows with Teamwork Projects. Additionally, I have experience developing web applications using various JavaScript frameworks.
 
-### Digital Marketing Group
-#### Web Developer, *New Philadelphia, OH*
+### Web Developer
+#### Digital Marketing Group, *New Philadelphia, OH*
 
 <p class="date">Sept 2017- July 2022</p>
 
