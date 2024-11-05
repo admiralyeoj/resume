@@ -4,8 +4,8 @@ This repository contains the Markdown version of Joseph Gross's resume, a backen
 
 ## View & Download
 
-- **To view the resume online**: Visit [admiralyeoj.github.io](https://admiralyeoj.github.io)
-- **To download as a PDF**: Visit [https://admiralyeoj.github.io/joey-gross-resume.pdf](https://admiralyeoj.github.io/joey-gross-resume.pdf)
+- **To view the resume online**: Visit [https://resume.grossportfolio.com/](https://resume.grossportfolio.com/)
+- **To download as a PDF**: Visit [https://resume.grossportfolio.com/joey-gross-resume.pdf](https://resume.grossportfolio.com/joey-gross-resume.pdf)
 
 ## Contents
 
