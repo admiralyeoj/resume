@@ -16,12 +16,6 @@ author:
 subject: "Subject"
 ---
 
-<<<<<<< HEAD
-
-=======
-
-> > > > > > > e8e1bc3 (updates to header)
-
 ###### [[grossportfolio.com](https://grossportfolio.com)] . [joey@bestcorgis.com] . [(330) 685-6915]
 
 <div class="bio">
