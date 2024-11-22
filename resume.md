@@ -38,7 +38,7 @@ subject: "Subject"
 
 **Programming**: Go, PHP/Laravel, Java, C# & C++ \
 **JS Frameworks**: Node, React, Gatsby, Vue, Nuxt, Angular \
-**Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL \
+**Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL, Redis \
 **Project Management**: Teamwork, Jira \
 
 <div class="experience">
