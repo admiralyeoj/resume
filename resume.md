@@ -87,7 +87,7 @@ subject: "Subject"
 
 **[_My Gross Portfolio_](http://grossportfolio.com)** My Portfolio Website
 
-- Built with WordPress, loaded through Composer, and a custom theme developed using the Sage framework.
+- Built with WordPress, loaded through Composer, and a custom theme developed using the Sage framework by Roots.
 - Hosted on Heroku with media storage in an AWS S3 bucket, distributed via AWS CloudFront, and enhanced with Cloudflare for additional security and performance.
 
 **[_AniManager_](https://github.com/admiralyeoj/animanager)** Go application
@@ -100,6 +100,13 @@ subject: "Subject"
 
 - Developed a WordPress plugin utilizing the Google Maps API to manage, and maintain locations efficiently.
 - Implemented customizable solutions including geolocation, Ajax loading, complex search criteria, and support for international locations to meet diverse user needs.
+
+**Homelab** My Personal Homelab Setup
+
+- Designed and implemented a scalable, automated home server infrastructure combining Linux (Ubuntu/Debian), Nginx Proxy Manager, Tailscale VPN, Cloudflare DNS, Pi-hole, and Plex to streamline media streaming, content management, and secure networking. Automated content workflows for seamless download, organization, and real-time monitoring of server performance.
+- Managed dedicated game servers, optimizing for multiplayer performance and uptime. Employed Bash scripting for task automation and system optimization, while ensuring secure access through VPNs and ad-blocking with Pi-hole.
+- This project improved operational efficiency, reduced manual intervention, and created a secure, scalable, and highly available ecosystem, providing seamless access to media and gaming services.
+
 </div>
 
 ## Education
