@@ -4,9 +4,11 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: Joseph Gross
+subtitle: Senior Software Engineer
 keywords:
   - "php"
   - "laravel"
+  - "golang"
   - "web applications"
   - "mysql"
   - "postgres"
@@ -15,8 +17,9 @@ author:
   - Joey Gross
 subject: "Subject"
 ---
-
-###### [[grossportfolio.com](https://grossportfolio.com)] . [joey@bestcorgis.com] . [(330) 685-6915]
+<div class="subheader">
+###### [[grossportfolio.com](https://grossportfolio.com)] . [[joey@bestcorgis.com](mailto:joey@bestcorgis.com)] . [(330) 685-6915]
+</div>
 
 <div class="bio">
 ### An analytical and innovative backend developer specializing in backend and web applications. Focused on creating robust functionality and seamless integrations for websites and systems to ensure efficient data management. An exceptional team collaborator who leverages actionable data insights to solve complex problems and drive continuous improvement.
