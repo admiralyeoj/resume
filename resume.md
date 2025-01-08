@@ -101,7 +101,7 @@ subject: "Subject"
 - Developed a WordPress plugin utilizing the Google Maps API to manage, and maintain locations efficiently.
 - Implemented customizable solutions including geolocation, Ajax loading, complex search criteria, and support for international locations to meet diverse user needs.
 
-**Homelab** My Personal Homelab Setup
+**_Homelab_** My Personal Homelab Setup
 
 - Designed and implemented a scalable, automated home server infrastructure combining Linux (Ubuntu/Debian), Nginx Proxy Manager, Tailscale VPN, Cloudflare DNS, Pi-hole, and Plex to streamline media streaming, content management, and secure networking. Automated content workflows for seamless download, organization, and real-time monitoring of server performance.
 - Managed dedicated game servers, optimizing for multiplayer performance and uptime. Employed Bash scripting for task automation and system optimization, while ensuring secure access through VPNs and ad-blocking with Pi-hole.
