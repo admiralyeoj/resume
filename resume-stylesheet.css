@@ -513,10 +513,16 @@ h6 {
   cursor: text;
 }
 
-h1 {
-  font-size: 37px;
+h1.title {
+  font-size: 25px;
   color: #000;
   text-align: center;
+  margin: 0;
+}
+p.subtitle {
+  text-align: center;
+  margin: 0;
+  font-size: 16px;
 }
 
 h2::before {
@@ -773,6 +779,10 @@ pre tt {
 }
 
 /* CUSTOM SECTION */
+
+.subheader h6 {
+  margin-top: 0;
+}
 
 .bio h3 {
   font-size: 14px;
