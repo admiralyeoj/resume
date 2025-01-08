@@ -17,6 +17,7 @@ author:
   - Joey Gross
 subject: "Subject"
 ---
+
 <div class="subheader">
 ###### [[grossportfolio.com](https://grossportfolio.com)] . [[joey@bestcorgis.com](mailto:joey@bestcorgis.com)] . [(330) 685-6915]
 </div>
@@ -36,6 +37,7 @@ subject: "Subject"
 `JS Frameworks`
 `GraphQL`
 `Rest API`
+`Auth0`
 `Project Management`
 `System Architecture & Design`
 
