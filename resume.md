@@ -50,6 +50,16 @@ subject: "Subject"
 
 ## Experience
 
+### Independant Contractor
+
+#### Solvis LLC | _Uniontown, OH_
+
+<p class="date">July 2024 - Current</p>
+
+- **API integration**: Helped create integration with 3rd party software and services.
+- **Problem Solving & Debugging**: Helped debug issues with websites to resolve bugs.
+- **Custom Wordpress functionality**: Helped create custom functionality needed for Custom Themes and Plugins in different Websites and Location Finders.
+
 ### Senior Software Engineer
 
 #### Tradefull | _North Canton, OH_
