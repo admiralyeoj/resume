@@ -100,10 +100,12 @@ subject: "Subject"
 
 ## Projects
 
-**[_My Gross Portfolio_](http://grossportfolio.com)** My Portfolio Website
+**[_My Gross Portfolio_](http://www.grossportfolio.com)** My Portfolio Website
 
 - Built with WordPress, loaded through Composer, and a custom theme developed using the Sage framework by Roots.
-- Hosted on Heroku with media storage in an AWS S3 bucket, distributed via AWS CloudFront, and enhanced with Cloudflare for additional security and performance.
+- The theme is using composer and yarn to install packages needed.
+- Selfhosted with my homelab, using AWS S3 bucket, for media storage, distributed via AWS CloudFront, and enhanced with Cloudflare for additional security and performance.
+- The code is viewable on github.
 
 **[_AniManager_](https://github.com/admiralyeoj/animanager)** Go application
 
