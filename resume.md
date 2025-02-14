@@ -41,7 +41,7 @@ subject: "Subject"
 `Project Management`
 `System Architecture & Design`
 
-**Programming**: Go, PHP/Laravel, Java, C# & C++ \
+**Programming**: Go, PHP/Laravel, Java, C# & C++, Python, Django \
 **JS Frameworks**: Node, React, Gatsby, Vue, Nuxt, Angular \
 **Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL, Redis \
 **Project Management**: Teamwork, Jira \
