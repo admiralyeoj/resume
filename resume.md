@@ -19,7 +19,7 @@ subject: "Subject"
 ---
 
 <div class="subheader">
-###### [[grossportfolio.com](https://grossportfolio.com)] . [[joey@bestcorgis.com](mailto:joey@bestcorgis.com)] . [(330) 685-6915]
+###### [[grossportfolio.com](https://grossportfolio.com)] . [[jrg2495@gmail.com](mailto:jrg2495@gmail.com)] . [(330) 685-6915]
 </div>
 
 <div class="bio">
