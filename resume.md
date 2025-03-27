@@ -46,11 +46,11 @@ subject: "Subject"
 **Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL, Redis \
 **Project Management**: Teamwork, Jira \
 
-<div class="experience">
+<div class="experience">c
 
 ## Experience
 
-### Independant Contractor
+### Independent Contractor
 
 #### Soivis LLC | _Uniontown, OH_
 
