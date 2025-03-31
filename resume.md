@@ -50,7 +50,7 @@ subject: "Subject"
 
 ## Experience
 
-### Independent Contractor
+### Senior Web Developer
 
 #### Soivis LLC | _Uniontown, OH_
 
