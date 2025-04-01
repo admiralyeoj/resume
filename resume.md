@@ -46,7 +46,7 @@ subject: "Subject"
 **Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL, Redis \
 **Project Management**: Teamwork, Jira \
 
-<div class="experience">c
+<div class="experience">
 
 ## Experience
 
