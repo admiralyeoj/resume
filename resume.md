@@ -19,7 +19,7 @@ subject: "Subject"
 ---
 
 <div class="subheader">
-###### [[jrg2495@gmail.com](railto:jrg2495@gmail.com)] . [(330) 685-6915] . [[grossportfolio.com](https://grossportfolio.com)] <br> [[linkedin.com/in/grossjoseph/](https://www.linkedin.com/in/grossjoseph/)]
+###### [[jrg2495@gmail.com](railto:jrg2495@gmail.com)] . [(330) 685-6915] . [[grossportfolio.com](https://grossportfolio.com)] <br> [[linkedin.com/in/grossjoseph](https://www.linkedin.com/in/grossjoseph/)]
 </div>
 
 <div class="bio">
@@ -93,11 +93,9 @@ subject: "Subject"
 
 <p class="date">April 2016 - August 2017</p>
 
-- **Custom CMS Development**: Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client's unique needs using PHP.
+- **Custom CMS Development**: Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client's unique needs using PHP, MySQL, Javascript and jQuery.
 - **Security & SEO**: Ensured robust security measures and optimized SEO for the in-house custom content management solution.
-- **Client-Specific Customization**: Worked with and Delivered personalized solutions by customizing the CMS for each client's unique needs, ensuring satisfaction and usability.
-
-**Technologies used:** Used PHP, MySQL, Javascript and jQuery to create custom websites from our propritiary CMS while meeting with clients to ensure the functionality and design was what the client was looking for.
+- **Client-Specific Customization**: Communicating with clients, I worked with and Delivered personalized solutions by customizing the CMS for each client's unique needs, ensuring satisfaction and usability.
 
 </div>
 <div class="projects">
