@@ -19,7 +19,8 @@ subject: "Subject"
 ---
 
 <div class="subheader">
-###### [[grossportfolio.com](https://grossportfolio.com)] . [[jrg2495@gmail.com](railto:jrg2495@gmail.com)] . [(330) 685-6915]
+###### [[jrg2495@gmail.com](railto:jrg2495@gmail.com)] . [(330) 685-6915]
+###### [[grossportfolio.com](https://grossportfolio.com)] . [[linkedin.com/in/grossjoseph/](https://www.linkedin.com/in/grossjoseph/)]
 </div>
 
 <div class="bio">
@@ -42,7 +43,7 @@ subject: "Subject"
 `System Architecture & Design`
 
 **Programming**: Go, PHP/Laravel, Java, C# & C++, Python/Django \
-**JS Frameworks**: Node, React, Gatsby, Vue, Nuxt, Angular \
+**JS Frameworks**: Node.js, React, Gatsby, Vue.js, Nuxt, Angular \
 **Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL, Redis \
 **Project Management**: Teamwork, Jira \
 
@@ -58,7 +59,9 @@ subject: "Subject"
 
 - **API integration**: Helped create integration with 3rd party software and services.
 - **Problem Solving & Debugging**: Helped debug issues with websites to resolve bugs.
-- **Custom Wordpress functionality**: Helped create custom functionality needed for Custom Themes and Plugins in different Websites and Location Finders.
+- **Custom Wordpress functionality**: Working with front end developers, I help create custom functionality needed for Custom Themes and Plugins in different Websites and Location Finders.
+
+**Technologies used:** Using PHP, Javascript and MySQL, to create custom WordPress themes and plugins to create robust websites. Using Rest APIs and GraphQL to create functionality and integration to different CRMs like Zoho and Salesforce.
 
 ### Senior Software Engineer
 
@@ -66,11 +69,11 @@ subject: "Subject"
 
 <p class="date">July 2022 - June 2024</p>
 
-- **Backend Development & Feature Maintenance**: Using PHP and Laravel, to build and maintain new and existing features and APIs in proprietary WMS to enhance system functionality.
+- **Backend Development & Feature Maintenance**: I scoped and planned project, working across teams with front-end, designers and operations members to ensure features were built properly and to spec in a timely manner.
 - **Enterprise-Grade Systems**: Develop and manage enterprise-grade WMS and OMS applications capable of handling large data volumes, ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
 - **Problem Solving & Debugging**: Utilize strong analytical abilities to debug and resolve issues within the existing codebase, maintaining system stability and performance, and increasing speed by as much as 40%.
 
-**Technologies used:** Using Laravel and MSSQL, I contributed to our proprietary Warehouse Management Software (WMS), ensuring smooth operations across our warehouses. I scoped and planned project features in Jira to maintain project visibility and mentored junior developers. Often, I was the go-to person for resolving urgent issues when quick fixes were needed.
+**Technologies used:** Using PHP/Laravel, MSSQL, Redis, Javascript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring smooth operations across our warehouses. Using Jira to manage the work in two-week sprints, I helped mentor junior developers to get projects done promptly. I also used SOAP, Rest, and GraphQL to create different API integrations. Often, I was the go-to person for resolving urgent issues when quick fixes were needed.
 
 ### Lead Web Developer
 
@@ -78,11 +81,12 @@ subject: "Subject"
 
 <p class="date">Sept 2017 - July 2022</p>
 
-- **Website Development**: Collaborate with team members to develop and launch over 40 websites across multiple verticals, driving innovation and increasing the customer base.
-- **Custom Solutions**: Worked directly with clients to help build custom WordPress themes and plugins to create the functionality requested. This includes working with APIs such as Quickbooks, Google Maps, CRMs, etc. I have helped plan and build all these sites from an internal base theme that I helped develop for ease of use.
-- **Project Management**: Conduct scope and proposal writing for projects and retainers, performing risk analysis and mitigation throughout the project life cycle.
+- **Website Development**: Collaborate with team members to develop and launch over 40 websites across multiple verticals, including senior living, self-storage, and healthcare, driving innovation and increasing the customer base.
+- **Custom Solutions**: Worked directly with clients to help build custom WordPress themes and plugins to create the functionality requested. This includes working with Rest, Soap and GraphQL APIs such as Quickbooks, Google Maps, Shopify and Salesforce.
+- **Project Management**: Working with 10 different agencies and over 15 different clients, I scoped and created project proposals as well as worked with the clients for reporting and updating the progress of the projects inside teamwork.
+- **DevOps**: Worked with hosting providers like WP Engine, Pantheon, Netlify and others to manage the websites as well as creating CI/CD integrations to automatically compile and deploy code to the websites.
 
-**Technologies used:** Built websites using PHP with WordPress and WooCommerce as the foundational frameworks. Managed project planning and workflows with Teamwork Projects. Additionally, I have experience developing web applications using various JavaScript frameworks.
+**Technologies used:** Built websites and web apps using MySQL, PHP, Javascript and jQuery with WordPress and WooCommerce as the foundational frameworks, and used javascript frameworks such as Vue, React, Gatsby, and Ember.js. Managed project planning and workflows with Teamwork Projects. Additionally, I have experience developing web applications using various JavaScript frameworks.
 
 ### Web Developer
 
@@ -92,8 +96,9 @@ subject: "Subject"
 
 - **Custom CMS Development**: Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client's unique needs using PHP.
 - **Security & SEO**: Ensured robust security measures and optimized SEO for the in-house custom content management solution.
-- **Client-Specific Customization**: Worked with and Delivered personalized solutions by
-  customizing the CMS for each client's unique needs, ensuring satisfaction and usability.
+- **Client-Specific Customization**: Worked with and Delivered personalized solutions by customizing the CMS for each client's unique needs, ensuring satisfaction and usability.
+
+**Technologies used:** Used PHP, MySQL, Javascript and jQuery to create custom websites from our propritiary CMS while meeting with clients to ensure the functionality and design was what the client was looking for.
 
 </div>
 <div class="projects">
@@ -105,6 +110,7 @@ subject: "Subject"
 - Built with WordPress, loaded through Composer, and a custom theme developed using the Sage framework by Roots.
 - The theme is using composer and yarn to install packages needed.
 - Selfhosted with my homelab, using AWS S3 bucket, for media storage, distributed via AWS CloudFront, and enhanced with Cloudflare for additional security and performance.
+- Created a CI/CD to automatically compile and build a docker package that allows easy updates to the website on my Homelab.
 - The code is viewable on github.
 
 **[_AniManager_](https://github.com/admiralyeoj/animanager)** Go application
@@ -130,4 +136,4 @@ subject: "Subject"
 
 ### Pittsburgh Technical College 2014 - 2016
 
-- **Associate's Degree** Computer Programming
+- **Associate's Degree (A.S.)** Computer Programming
