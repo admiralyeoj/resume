@@ -19,8 +19,7 @@ subject: "Subject"
 ---
 
 <div class="subheader">
-###### [[jrg2495@gmail.com](railto:jrg2495@gmail.com)] . [(330) 685-6915]
-###### [[grossportfolio.com](https://grossportfolio.com)] . [[linkedin.com/in/grossjoseph/](https://www.linkedin.com/in/grossjoseph/)]
+###### [[jrg2495@gmail.com](railto:jrg2495@gmail.com)] . [(330) 685-6915] . [[grossportfolio.com](https://grossportfolio.com)] <br> [[linkedin.com/in/grossjoseph/](https://www.linkedin.com/in/grossjoseph/)]
 </div>
 
 <div class="bio">
