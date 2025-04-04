@@ -41,7 +41,7 @@ subject: "Subject"
 `Project Management`
 `System Architecture & Design`
 
-**Programming**: Go, PHP/Laravel, Java, C# & C++, Python/Django \
+**Programming**: Go, PHP/Laravel, Java, C# & C++, Python/Django, CSS \
 **JS Frameworks**: Node.js, React, Gatsby, Vue.js, Nuxt, Angular \
 **Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL, Redis \
 **Project Management**: Teamwork, Jira \
@@ -56,11 +56,10 @@ subject: "Subject"
 
 <p class="date">July 2024 - Current</p>
 
-- **API integration**: Helped create integration with 3rd party software and services.
-- **Problem Solving & Debugging**: Helped debug issues with websites to resolve bugs.
-- **Custom Wordpress functionality**: Working with front end developers, I help create custom functionality needed for Custom Themes and Plugins in different Websites and Location Finders.
-
-**Technologies used:** Using PHP, Javascript and MySQL, to create custom WordPress themes and plugins to create robust websites. Using Rest APIs and GraphQL to create functionality and integration to different CRMs like Zoho and Salesforce.
+- Using PHP, Javascript and MySQL, CSS to create custom WordPress themes and plugins to create robust websites. Using Rest APIs and GraphQL to create functionality and integration with 3rd party software and services (e.g., Google APIs, Salesforce, Keap) to ensure the clients needs were met.
+- Worked with clients to identify, debug and fix issues to ensure optimal performance
+- Working with front end developers, I help create custom functionality needed for Custom Themes and Plugins in different Websites and Web apps.
+- Collaborated with clients to manage expectations and ensure deadlines were met, contributing to the smooth execution of the project.
 
 ### Senior Software Engineer
 
@@ -68,11 +67,11 @@ subject: "Subject"
 
 <p class="date">July 2022 - June 2024</p>
 
-- **Backend Development & Feature Maintenance**: I scoped and planned project, working across teams with front-end, designers and operations members to ensure features were built properly and to spec in a timely manner.
-- **Enterprise-Grade Systems**: Develop and manage enterprise-grade WMS and OMS applications capable of handling large data volumes, ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
-- **Problem Solving & Debugging**: Utilize strong analytical abilities to debug and resolve issues within the existing codebase, maintaining system stability and performance, and increasing speed by as much as 40%.
-
-**Technologies used:** Using PHP/Laravel, MSSQL, Redis, Javascript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring smooth operations across our warehouses. Using Jira to manage the work in two-week sprints, I helped mentor junior developers to get projects done promptly. I also used SOAP, Rest, and GraphQL to create different API integrations. Often, I was the go-to person for resolving urgent issues when quick fixes were needed.
+- Using PHP/Laravel, MSSQL, Redis, Javascript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
+- Scoped and planned project, working across teams with front-end, designers and operations members to ensure features were built properly and to spec in a timely manner.
+- Using Jira to manage the work in two-week sprints, I helped mentor junior developers to get projects done promptly.
+- Utilize strong analytical abilities to debug and resolve issues within the existing codebase, maintaining system stability and performance, and increasing speed by as much as 40%.
+- Developed integrations with various APIs (SOAP, REST, GraphQL) to connect marketplaces (e.g., Target, Amazon, Shopify) and shipping carriers (e.g., Amazon, FedEx, UPS).
 
 ### Lead Web Developer
 
@@ -80,12 +79,11 @@ subject: "Subject"
 
 <p class="date">Sept 2017 - July 2022</p>
 
-- **Website Development**: Collaborate with team members to develop and launch over 40 websites across multiple verticals, including senior living, self-storage, and healthcare, driving innovation and increasing the customer base.
-- **Custom Solutions**: Worked directly with clients to help build custom WordPress themes and plugins to create the functionality requested. This includes working with Rest, Soap and GraphQL APIs such as Quickbooks, Google Maps, Shopify and Salesforce.
-- **Project Management**: Working with 10 different agencies and over 15 different clients, I scoped and created project proposals as well as worked with the clients for reporting and updating the progress of the projects inside teamwork.
-- **DevOps**: Worked with hosting providers like WP Engine, Pantheon, Netlify and others to manage the websites as well as creating CI/CD integrations to automatically compile and deploy code to the websites.
-
-**Technologies used:** Built websites and web apps using MySQL, PHP, Javascript and jQuery with WordPress and WooCommerce as the foundational frameworks, and used javascript frameworks such as Vue, React, Gatsby, and Ember.js. Managed project planning and workflows with Teamwork Projects. Additionally, I have experience developing web applications using various JavaScript frameworks.
+- Using WordPress and WooCommerce as foundational frameworks, I developed websites and web apps with MySQL, PHP, JavaScript, and jQuery, and integrated JavaScript frameworks like Vue, React, Gatsby, and Ember.js. This included creating integrations with REST, SOAP, and GraphQL APIs, such as QuickBooks, Google APIs, Shopify, and Keap.
+- Communicated directly with clients, using Teamwork to manage the work, to help create the functionality requested. This includes working .
+- Collaborate with team members to develop and launch over 40 websites across multiple verticals, including senior living, self-storage, and healthcare, driving innovation and increasing the customer base.
+- Working with 10 different agencies and over 15 different clients, I scoped and created project proposals as well as worked with the clients for reporting and updating the progress of the projects inside teamwork.
+- Worked with hosting providers like WP Engine, Pantheon, Netlify and others to manage the websites as well as creating CI/CD integrations to automatically compile and deploy code to the websites.
 
 ### Web Developer
 
@@ -93,9 +91,9 @@ subject: "Subject"
 
 <p class="date">April 2016 - August 2017</p>
 
-- **Custom CMS Development**: Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client's unique needs using PHP, MySQL, Javascript and jQuery.
-- **Security & SEO**: Ensured robust security measures and optimized SEO for the in-house custom content management solution.
-- **Client-Specific Customization**: Communicating with clients, I worked with and Delivered personalized solutions by customizing the CMS for each client's unique needs, ensuring satisfaction and usability.
+- Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client's unique needs using PHP, MySQL, Javascript and jQuery.
+- Ensured robust security measures and optimized SEO for the in-house custom content management solution.
+- Communicating with clients, I worked with and Delivered personalized solutions by customizing the CMS for each client's unique needs, ensuring satisfaction and usability.
 
 </div>
 <div class="projects">
