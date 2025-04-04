@@ -37,7 +37,6 @@ subject: "Subject"
 `JS Frameworks`
 `GraphQL`
 `Rest API`
-`Auth0`
 `Project Management`
 `System Architecture & Design`
 
