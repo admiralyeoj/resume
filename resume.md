@@ -69,7 +69,7 @@ subject: "Subject"
 - Using PHP/Laravel, MSSQL, Redis, Javascript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
 - Scoped and planned project, working across teams with front-end, designers and operations members to ensure features were built properly and to spec in a timely manner.
 - Using Jira to manage the work in two-week sprints, I helped mentor junior developers to get projects done promptly.
-- Utilize strong analytical abilities to debug and resolve issues within the existing codebase, maintaining system stability and performance, and increasing speed by as much as 40%.
+- Utilized strong analytical abilities to debug and resolve issues within the existing codebase, maintaining system stability and performance and increasing speed by as much as 40%.
 - Developed integrations with various APIs (SOAP, REST, GraphQL) to connect marketplaces (e.g., Target, Amazon, Shopify) and shipping carriers (e.g., Amazon, FedEx, UPS).
 
 ### Lead Web Developer
@@ -90,9 +90,9 @@ subject: "Subject"
 
 <p class="date">April 2016 - August 2017</p>
 
-- Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client's unique needs using PHP, MySQL, Javascript and jQuery.
+- Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client’s unique needs using PHP, MySQL, Javascript, and jQuery.
 - Ensured robust security measures and optimized SEO for the in-house custom content management solution.
-- Communicating with clients, I worked with and Delivered personalized solutions by customizing the CMS for each client's unique needs, ensuring satisfaction and usability.
+- Communicating with clients I worked with and delivering personalized solutions by customizing the CMS for each client’s unique needs, ensuring satisfaction and usability.
 
 </div>
 <div class="projects">
