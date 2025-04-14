@@ -6,12 +6,12 @@ margin-bottom: 2cm
 title: Joseph Gross
 subtitle: Senior Software Engineer
 keywords:
-  - "php"
-  - "laravel"
-  - "golang"
-  - "web applications"
-  - "mysql"
-  - "postgres"
+  - "PHP"
+  - "Laravel"
+  - "Golang"
+  - "Web Applications"
+  - "MySQL"
+  - "Postgres"
   - "software engineer"
 author:
   - Joey Gross
@@ -55,9 +55,9 @@ subject: "Subject"
 
 <p class="date">July 2024 - Current</p>
 
-- Using PHP, Javascript and MySQL, CSS to create custom WordPress themes and plugins to create robust websites. Using Rest APIs and GraphQL to create functionality and integration with 3rd party software and services (e.g., Google APIs, Salesforce, Keap) to ensure the clients needs were met.
-- Worked with clients to identify, debug and fix issues to ensure optimal performance
-- Working with front end developers, I help create custom functionality needed for Custom Themes and Plugins in different Websites and Web apps.
+- Using PHP, Javascript and MySQL, CSS to create custom WordPress themes and plugins to create robust websites. Using Rest APIs and GraphQL to create functionality and integration with 3rd party software and services (e.g., Google APIs, Salesforce, Keap) to ensure the client's needs were met.
+- Worked with clients to identify, debug, and fix issues to ensure optimal performance
+- Working with front-end developers, I help create custom functionality for Custom Themes and Plugins in different Websites and Web apps.
 - Collaborated with clients to manage expectations and ensure deadlines were met, contributing to the smooth execution of the project.
 
 ### Senior Software Engineer
@@ -67,8 +67,8 @@ subject: "Subject"
 <p class="date">July 2022 - June 2024</p>
 
 - Using PHP/Laravel, MSSQL, Redis, Javascript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
-- Scoped and planned project, working across teams with front-end, designers and operations members to ensure features were built properly and to spec in a timely manner.
-- Using Jira to manage the work in two-week sprints, I helped mentor junior developers to get projects done promptly.
+- Scoped and planned projects, working across teams with front-end, designers, and operations members to ensure features were built properly and to spec promptly.
+- Managed two-week sprints using Jira and mentored junior developers to ensure timely project delivery.
 - Utilized strong analytical abilities to debug and resolve issues within the existing codebase, maintaining system stability and performance and increasing speed by as much as 40%.
 - Developed integrations with various APIs (SOAP, REST, GraphQL) to connect marketplaces (e.g., Target, Amazon, Shopify) and shipping carriers (e.g., Amazon, FedEx, UPS).
 
@@ -82,7 +82,7 @@ subject: "Subject"
 - Communicated directly with clients, using Teamwork to manage the work, to help create the functionality requested. This includes working.
 - Collaborated with team members to develop and launch over 40 websites across multiple verticals, including senior living, self-storage, and healthcare, driving innovation and increasing the customer base.
 - Working with 10 different agencies and over 15 different clients, I scoped and created project proposals as well as worked with the clients for reporting and updating the progress of the projects inside teamwork.
-- Worked with hosting providers like WP Engine, Pantheon, Netlify and others to manage the websites as well as creating CI/CD integrations to automatically compile and deploy code to the websites.
+- Worked with hosting providers like WP Engine, Pantheon, Netlify, and others to manage the websites as well as create CI/CD integrations to automatically compile and deploy code to the websites.
 
 ### Web Developer
 
@@ -101,22 +101,24 @@ subject: "Subject"
 
 **[_My Gross Portfolio_](http://www.grossportfolio.com)** My Portfolio Website
 
-- Built with WordPress, loaded through Composer, and a custom theme developed using the Sage framework by Roots.
+- Built with WordPress using loaded through Composer, and a custom theme developed using the Sage framework by Roots. Using the languages PHP/Laravel, HTML, SCSS, Javascript
 - The theme is using composer and yarn to install packages needed.
-- Selfhosted with my homelab, using AWS S3 bucket, for media storage, distributed via AWS CloudFront, and enhanced with Cloudflare for additional security and performance.
+- Self-hosted with my home lab, using AWS S3 bucket, for media storage, distributed via AWS CloudFront, and enhanced with Cloudflare for additional security and performance.
 - Created a CI/CD to automatically compile and build a docker package that allows easy updates to the website on my Homelab.
-- The code is viewable on github.
+- The code is viewable on GitHub.
 
 **[_AniManager_](https://github.com/admiralyeoj/animanager)** Go application
 
+- Built with Golang
 - Using the AniList API to track and store release dates, times, and show information in a PostgreSQL database.
 - Once the episodes air, an announcement is made on Bluesky to let followers know they’re now live.
 - This process is automated with cron jobs and commands within the Go application.
 
 **[_Flex Maps WP_](https://github.com/admiralyeoj/wp-flex-maps)** Custom WP Plugin
 
-- Developed a WordPress plugin utilizing the Google Maps API to manage, and maintain locations efficiently.
+- Developed a WordPress plugin utilizing PHP, HTML, CSS, Javascript, MySQL, and Google Maps API (e.g., Map, Location Autocomplete).
 - Implemented customizable solutions including geolocation, Ajax loading, complex search criteria, and support for international locations to meet diverse user needs.
+- Using WordPress Actions and Filters, I hooked into the core WordPress to create custom queries and modify the SQL generated.
 
 **_Homelab_** My Personal Homelab Setup
 
