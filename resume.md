@@ -42,7 +42,7 @@ subject: "Subject"
 
 **Programming**: Go, PHP/Laravel, Java, C# & C++, Python/Django, CSS \
 **JS Frameworks**: Node.js, React, Gatsby, Vue.js, Nuxt, Angular \
-**Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL, Redis \
+**Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL, Redis, Elasticsearch \
 **Project Management**: Teamwork, Jira \
 
 <div class="experience">
@@ -66,7 +66,7 @@ subject: "Subject"
 
 <p class="date">July 2022 - June 2024</p>
 
-- Using PHP/Laravel, MSSQL, Redis, Javascript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
+- Using PHP/Laravel, MSSQL, Redis, Elasticsearch, Javascript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
 - Scoped and planned projects, working across teams with front-end, designers, and operations members to ensure features were built properly and to spec promptly.
 - Managed two-week sprints using Jira and mentored junior developers to ensure timely project delivery.
 - Utilized strong analytical abilities to debug and resolve issues within the existing codebase, maintaining system stability and performance and increasing speed by as much as 40%.
