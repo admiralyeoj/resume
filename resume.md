@@ -78,7 +78,7 @@ subject: "Subject"
 
 <p class="date">Sept 2017 - July 2022</p>
 
-- Using WordPress and WooCommerce as foundational frameworks, I developed websites and web apps with MySQL, PHP, JavaScript, and jQuery, and integrated JavaScript frameworks like Vue, React, Gatsby, and Ember.js. This included creating integrations with REST, SOAP, and GraphQL APIs, such as QuickBooks, Google APIs, Shopify, and Keap.
+- Using WordPress and WooCommerce as foundational frameworks, I developed websites and web apps with MySQL, PHP, JavaScript, and jQuery, and integrated JavaScript frameworks like Vue, React, Gatsby, Node.js and Ember.js. This included creating integrations with REST, SOAP, and GraphQL APIs, such as QuickBooks, Google APIs, Shopify, and Keap.
 - Communicated directly with clients, using Teamwork to manage the work, to help create the functionality requested. This includes working.
 - Collaborated with team members to develop and launch over 40 websites across multiple verticals, including senior living, self-storage, and healthcare, driving innovation and increasing the customer base.
 - Working with 10 different agencies and over 15 different clients, I scoped and created project proposals as well as worked with the clients for reporting and updating the progress of the projects inside teamwork.
