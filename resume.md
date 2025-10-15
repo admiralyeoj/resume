@@ -55,9 +55,8 @@ subject: "Subject"
 
 <p class="date">July 2024 - Current</p>
 
-- Using PHP, Javascript and MySQL, CSS to create custom WordPress themes and plugins to create robust websites. Using Rest APIs and GraphQL to create functionality and integration with 3rd party software and services (e.g., Google APIs, Salesforce, Keap) to ensure the client's needs were met.
+- Using PHP, Javascript and MySQL, CSS to create custom WordPress themes and plugins to create robust websites. Using Rest APIs and GraphQL to create functionality and integration with 3rd-party software and services (Google APIs, Salesforce, Shopify) to ensure the client's needs.
 - Worked with clients to identify, debug, and fix issues to ensure optimal performance
-- Working with front-end developers, I help create custom functionality for Custom Themes and Plugins in different Websites and Web apps.
 - Collaborated with clients to manage expectations and ensure deadlines were met, contributing to the smooth execution of the project.
 
 ### Senior Software Engineer
@@ -68,21 +67,20 @@ subject: "Subject"
 
 - Using PHP/Laravel, MSSQL, Redis, Elasticsearch, Javascript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
 - Scoped and planned projects, working across teams with front-end, designers, and operations members to ensure features were built properly and to spec promptly.
-- Managed two-week sprints using Jira and mentored junior developers to ensure timely project delivery.
-- Utilized strong analytical abilities to debug and resolve issues within the existing codebase, maintaining system stability and performance and increasing speed by as much as 40%.
+- Debuged and resolve issues within the existing codebase, maintaining system stability and performance and increasing speed.
 - Developed integrations with various APIs (SOAP, REST, GraphQL) to connect marketplaces (e.g., Target, Amazon, Shopify) and shipping carriers (e.g., Amazon, FedEx, UPS).
 
-### Lead Web Developer
+### Solutions Architect
 
 #### Ignitro | _Canton, OH_
 
 <p class="date">Sept 2017 - July 2022</p>
 
-- Using WordPress and WooCommerce as foundational frameworks, I developed websites and web apps with MySQL, PHP, JavaScript, and jQuery, and integrated JavaScript frameworks like Vue, React, Gatsby, Node.js and Ember.js. This included creating integrations with REST, SOAP, and GraphQL APIs, such as QuickBooks, Google APIs, Shopify, and Keap.
-- Communicated directly with clients, using Teamwork to manage the work, to help create the functionality requested. This includes working.
-- Collaborated with team members to develop and launch over 40 websites across multiple verticals, including senior living, self-storage, and healthcare, driving innovation and increasing the customer base.
-- Working with 10 different agencies and over 15 different clients, I scoped and created project proposals as well as worked with the clients for reporting and updating the progress of the projects inside teamwork.
-- Worked with hosting providers like WP Engine, Pantheon, Netlify, and others to manage the websites as well as create CI/CD integrations to automatically compile and deploy code to the websites.
+- Developed websites and web-apps primarily using Wordpress and Woocommerce. Using PHP, MySQL, Javascript, JQuery and modern frameworks(Vue, React, Gatsby, Node.js). Integrated REST, SOAP, and GraphQL APIs such as QuickBooks, Google APIs, Shopify, and Keap. Used plugins like ACF, Yoast SEO, Gravity forms for ease of use.
+- Communicated with 15+ clients and 10+ angencies, to scope proposals, tracked progress, and deliver functional solutions aligned with client needs.
+- Launched 40+ websites across industries, driving innovation and expanding the customer base. This helped increase their SEO rankings to ensure more traffic and lead geneations.
+- Managed hosting and deployment pipelines across WP Engine, Pantheon, Netlify, and others, implementing CI/CD workflows to streamline code compilation and deployment.
+- Designed and developed an ADA compliance scanner - a Python/Django-based web app that identifies accessibility issues on websites, using MySQL for storage and reporting automation.
 
 ### Web Developer
 
@@ -91,8 +89,8 @@ subject: "Subject"
 <p class="date">April 2016 - August 2017</p>
 
 - Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client’s unique needs using PHP, MySQL, Javascript, and jQuery.
-- Ensured robust security measures and optimized SEO for the in-house custom content management solution.
-- Communicating with clients I worked with and delivering personalized solutions by customizing the CMS for each client’s unique needs, ensuring satisfaction and usability.
+- Ensured robust security measures and optimized SEO for the in-house custom content management solution (CMS).
+- Communicating with clients I worked with and delivering personalized solutions by customizing the CMS for each client’s unique needs, ensuring easy user changes and usability.
 
 </div>
 <div class="projects">
@@ -105,14 +103,13 @@ subject: "Subject"
 - The theme is using composer and yarn to install packages needed.
 - Self-hosted with my home lab, using AWS S3 bucket, for media storage, distributed via AWS CloudFront, and enhanced with Cloudflare for additional security and performance.
 - Created a CI/CD to automatically compile and build a docker package that allows easy updates to the website on my Homelab.
-- The code is viewable on GitHub.
 
 **[_AniManager_](https://github.com/admiralyeoj/animanager)** Go application
 
-- Built with Golang
+- Built with Golang and MySQL
 - Using the AniList API to track and store release dates, times, and show information in a PostgreSQL database.
 - Once the episodes air, an announcement is made on Bluesky to let followers know they’re now live.
-- This process is automated with cron jobs and commands within the Go application.
+- This process is automated with cron jobs, queue system and commands within the Go application.
 
 **[_Flex Maps WP_](https://github.com/admiralyeoj/wp-flex-maps)** Custom WP Plugin
 
