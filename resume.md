@@ -67,7 +67,7 @@ subject: "Subject"
 
 - Using PHP/Laravel, MSSQL, Redis, Elasticsearch, Javascript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
 - Scoped and planned projects, working across teams with front-end, designers, and operations members to ensure features were built properly and to spec promptly.
-- Debuged and resolve issues within the existing codebase, maintaining system stability and performance and increasing speed.
+- Debuged and resolve issues within the existing codebase, maintaining system stability and performance.
 - Developed integrations with various APIs (SOAP, REST, GraphQL) to connect marketplaces (e.g., Target, Amazon, Shopify) and shipping carriers (e.g., Amazon, FedEx, UPS).
 
 ### Solutions Architect
@@ -127,6 +127,7 @@ subject: "Subject"
 
 ## Education
 
-### Pittsburgh Technical College 2014 - 2016
+### Pittsburgh Technical College | 2014 - 2016
+#### *Pittsburgh, Pennsylvania* 
 
 - **Associate's Degree (A.S.)** Computer Programming
