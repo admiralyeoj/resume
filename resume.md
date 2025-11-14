@@ -4,7 +4,6 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: Joseph Gross
-subtitle: Senior Software Engineer
 keywords:
   - "PHP"
   - "Laravel"
@@ -55,7 +54,7 @@ subject: "Subject"
 
 <p class="date">July 2024 - Current</p>
 
-- Using PHP, Javascript and MySQL, CSS to create custom WordPress themes and plugins to create robust websites. Using Rest APIs and GraphQL to create functionality and integration with 3rd party software and services (e.g., Google APIs, Salesforce, Keap) to ensure the client's needs were met.
+- Using PHP, JavaScript and MySQL, CSS to create custom WordPress themes and plugins to create robust websites. Using Rest APIs and GraphQL to create functionality and integration with 3rd party software and services (e.g., Google APIs, Salesforce, Keap) to ensure the client's needs were met.
 - Worked with clients to identify, debug, and fix issues to ensure optimal performance
 - Working with front-end developers, I help create custom functionality for Custom Themes and Plugins in different Websites and Web apps.
 - Collaborated with clients to manage expectations and ensure deadlines were met, contributing to the smooth execution of the project.
@@ -66,7 +65,7 @@ subject: "Subject"
 
 <p class="date">July 2022 - June 2024</p>
 
-- Using PHP/Laravel, MSSQL, Redis, Elasticsearch, Javascript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
+- Using PHP/Laravel, MSSQL, Redis, Elasticsearch, JavaScript, and Vue.js, I contributed to our proprietary Warehouse Management Software (WMS), Order Management Software (OMS), and Product Information Management (PIM), ensuring reliability and performance, removing manual processing, and Improving warehouse operations by at least 30%.
 - Scoped and planned projects, working across teams with front-end, designers, and operations members to ensure features were built properly and to spec promptly.
 - Managed two-week sprints using Jira and mentored junior developers to ensure timely project delivery.
 - Utilized strong analytical abilities to debug and resolve issues within the existing codebase, maintaining system stability and performance and increasing speed by as much as 40%.
@@ -90,7 +89,7 @@ subject: "Subject"
 
 <p class="date">April 2016 - August 2017</p>
 
-- Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client’s unique needs using PHP, MySQL, Javascript, and jQuery.
+- Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client’s unique needs using PHP, MySQL, JavaScript, and jQuery.
 - Ensured robust security measures and optimized SEO for the in-house custom content management solution.
 - Communicating with clients I worked with and delivering personalized solutions by customizing the CMS for each client’s unique needs, ensuring satisfaction and usability.
 
@@ -101,7 +100,7 @@ subject: "Subject"
 
 **[_My Gross Portfolio_](http://www.grossportfolio.com)** My Portfolio Website
 
-- Built with WordPress using loaded through Composer, and a custom theme developed using the Sage framework by Roots. Using the languages PHP/Laravel, HTML, SCSS, Javascript
+- Built with WordPress using loaded through Composer, and a custom theme developed using the Sage framework by Roots. Using the languages PHP/Laravel, HTML, SCSS, JavaScript
 - The theme is using composer and yarn to install packages needed.
 - Self-hosted with my home lab, using AWS S3 bucket, for media storage, distributed via AWS CloudFront, and enhanced with Cloudflare for additional security and performance.
 - Created a CI/CD to automatically compile and build a docker package that allows easy updates to the website on my Homelab.
@@ -116,7 +115,7 @@ subject: "Subject"
 
 **[_Flex Maps WP_](https://github.com/admiralyeoj/wp-flex-maps)** Custom WP Plugin
 
-- Developed a WordPress plugin utilizing PHP, HTML, CSS, Javascript, MySQL, and Google Maps API (e.g., Map, Location Autocomplete).
+- Developed a WordPress plugin utilizing PHP, HTML, CSS, JavaScript, MySQL, and Google Maps API (e.g., Map, Location Autocomplete).
 - Implemented customizable solutions including geolocation, Ajax loading, complex search criteria, and support for international locations to meet diverse user needs.
 - Using WordPress Actions and Filters, I hooked into the core WordPress to create custom queries and modify the SQL generated.
 
