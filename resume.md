@@ -32,17 +32,19 @@ subject: "Subject"
 `Databases`
 `WordPress`
 `Web Applications`
-`HTML5 & CSS`
 `JS Frameworks`
 `GraphQL`
 `Rest API`
+`Analytical Thinking`
+`Communication`
 `Project Management`
+`Teamwork`
 `System Architecture & Design`
+`Problem-Solving`
 
-**Programming**: Go, PHP/Laravel, Java, C# & C++, Python/Django, CSS \
+**Programming**: Go, PHP/Laravel, Java, C# & C++, Python/Django, HTML/CSS, JavaScript \
 **JS Frameworks**: Node.js, React, Gatsby, Vue.js, Nuxt, Angular \
-**Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL, Redis, Elasticsearch \
-**Project Management**: Teamwork, Jira \
+**Databases**: MySQL, Postgres, SQLite, SQL Server, MSSQL, Redis, Elasticsearch
 
 <div class="experience">
 
