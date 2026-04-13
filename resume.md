@@ -2,7 +2,7 @@
 margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
-margin-bottom: 2cm
+margin-bottom: 1cm
 title: Joseph Gross
 keywords:
   - "PHP"
@@ -22,7 +22,7 @@ subject: "Subject"
 </div>
 
 <div class="bio">
-### An analytical and innovative backend developer specializing in backend and web applications. Focused on creating robust functionality and seamless integrations for websites and systems to ensure efficient data management. An exceptional team collaborator who leverages actionable data insights to solve complex problems and drive continuous improvement.
+### An analytical and innovative backend developer with 10+ years of experience, specializing in backend and web applications. Focused on creating robust functionality and seamless integrations for websites and systems to ensure efficient data management. An exceptional team collaborator who leverages actionable data insights to solve complex problems and drive continuous improvement.
 </div>
 
 ## Skills
@@ -50,13 +50,31 @@ subject: "Subject"
 
 ## Experience
 
+### Senior Software Engineer
+
+#### Vault Innovation | _Remote_ (Contract)
+
+<p class="date">Febuary 2026 - Current</p>
+
+- Full-stack agricultural data platform built with Laravel, React, and React Native, shipping
+  native iOS and Android apps alongside a web-based admin panel.
+- Mobile app features role-differentiated dashboards (grower vs. dealer), paginated infinite-scroll
+  grower lists, a collapsible tree view organizing reports by year and crop, and in-app PDF
+  download, preview, and native share-sheet support.
+- Implements offline support, Mixpanel analytics, multi-step treatment submission flows, and a
+  provider/permissions architecture driving conditional UI across the app.
+- Backend manages a multi-tiered grower/dealer hierarchy with role-based access control, per-nutrient
+  lab values, proprietary MYPAS scoring, a controlled report release workflow, bulk CSV import,
+  multi-channel notifications (email, SMS, push via AWS SNS), and S3 file storage.
+
+
 ### Senior Web Developer
 
-#### Soivis LLC | _Uniontown, OH_
+#### Soivis LLC | _Remote_ (Freelance)
 
 <p class="date">July 2024 - Current</p>
 
-- Using PHP, Javascript and MySQL, CSS to create custom WordPress themes and plugins to create robust websites. Using Rest APIs and GraphQL to create functionality and integration with 3rd-party software and services (Google APIs, Salesforce, Shopify) to ensure the client's needs.
+- Built custom WordPress themes and plugins using PHP, JavaScript, MySQL, and CSS. Integrated REST APIs and GraphQL with third-party services including Google APIs, Salesforce, and Shopify.
 - Worked with clients to identify, debug, and fix issues to ensure optimal performance
 - Collaborated with clients to manage expectations and ensure deadlines were met, contributing to the smooth execution of the project.
 
@@ -71,6 +89,8 @@ subject: "Subject"
 - Debuged and resolve issues within the existing codebase, maintaining system stability and performance.
 - Developed integrations with various APIs (SOAP, REST, GraphQL) to connect marketplaces (e.g., Target, Amazon, Shopify) and shipping carriers (e.g., Amazon, FedEx, UPS).
 
+<div style="page-break-before: always"></div>
+
 ### Solutions Architect
 
 #### Ignitro | _Canton, OH_
@@ -82,16 +102,6 @@ subject: "Subject"
 - Launched 40+ websites across industries, driving innovation and expanding the customer base. This helped increase their SEO rankings to ensure more traffic and lead geneations.
 - Managed hosting and deployment pipelines across WP Engine, Pantheon, Netlify, and others, implementing CI/CD workflows to streamline code compilation and deployment.
 - Designed and developed an ADA compliance scanner - a Python/Django-based web app that identifies accessibility issues on websites, using MySQL for storage and reporting automation.
-
-### Web Developer
-
-#### Digital Marketing Group | _New Philadelphia, OH_
-
-<p class="date">April 2016 - August 2017</p>
-
-- Built and managed the design, functionality, security, and SEO of a custom content management solution tailored to each client’s unique needs using PHP, MySQL, Javascript, and jQuery.
-- Ensured robust security measures and optimized SEO for the in-house custom content management solution (CMS).
-- Communicating with clients I worked with and delivering personalized solutions by customizing the CMS for each client’s unique needs, ensuring easy user changes and usability.
 
 </div>
 <div class="projects">

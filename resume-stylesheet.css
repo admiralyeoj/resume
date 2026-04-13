@@ -1218,3 +1218,10 @@ sub {
 .author {
   display: none;
 }
+
+@media print {
+  body {
+    padding: 10px;
+    margin: 0;
+  }
+}
